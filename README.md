@@ -4,4 +4,4 @@ Muhammad Fadlin Bin Norazman 2119917 <br>
 Muhammad Akhyar Bin Al-Khairi 1715231 <br>
 
 # Title
-<h1>Muslim Reminder</h1>
+<h4>Muslim Reminder</h4>
