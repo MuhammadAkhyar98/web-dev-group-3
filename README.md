@@ -23,7 +23,7 @@ There are three main features and functionalities of our system. Firstly, we wil
 
 ## ER Diagram
 
-![web develop drawio](https://user-images.githubusercontent.com/121500795/209822343-69b65a44-c757-49cb-baa4-3a6d64ceb41e.png)
+![web develop drawio (2)](https://user-images.githubusercontent.com/121500795/209831129-a2e3b210-7425-4956-84a1-3222b7f78985.png)
 
 ## Sequence Diagram
 
