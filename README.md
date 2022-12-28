@@ -6,7 +6,7 @@ Muhammad Akhyar Bin Al-Khairi 1715231 <br>
 # Title
 <h4>Muslim Reminder</h4>
 <h4>INTRODUCTION</h4>
-Surau management in mahallah seems a little bit unmanaged in term of tasks division causing lack of use of surau. To further encourage the use of surau in orderly manners, our group decided to develop a system to organize a better management of surau.<br>
+<p>Surau management in mahallah seems a little bit unmanaged in term of tasks division causing lack of use of surau. To further encourage the use of surau in orderly manners, our group decided to develop a system to organize a better management of surau.</p>
 <h4>OBJECTIVE</h4>
 The main objective of our system is to provide database to ease the management of surau in mahallah. Next, we love to develop a simple and direct yet effective system that provide no error. Then, the system also manages the arrangement of Bilal and Imam for each prayers, provides the prayer time schedule and also registration page that allow users to apply to be Imam and Bilal.<br>
 <h4>FEATURES AND FUNCTIONALITIES</h4>
