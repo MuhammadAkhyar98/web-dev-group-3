@@ -12,4 +12,5 @@ The main objective of our system is to provide database to ease the management o
 <h4>FEATURES AND FUNCTIONALITIES</h4>
 There are three main features and functionalities of our system. Firstly, we will provide registration page for user who are interested to apply for Bilal and Imam position for mahallah's surau. Next, based on the registration form filled by users, we will arranges the schedule of Imam and Bilal on duty for every prayer time. Lastly, the system will also provide the schedule of prayer time for users to refer.<br>
 <h4>ER Diagram</h4>
+
 ![web develop drawio](https://user-images.githubusercontent.com/121500795/209822343-69b65a44-c757-49cb-baa4-3a6d64ceb41e.png)
