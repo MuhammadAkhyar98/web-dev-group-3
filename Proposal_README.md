@@ -7,7 +7,7 @@
 3. Muhammad Akhyar Bin Al-Khairi 1715231 <br>
 
 ## Title
-#### Musolla PRO
+#### e-Pray
 
 ## INTRODUCTION
 
