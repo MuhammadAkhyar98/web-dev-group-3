@@ -14,3 +14,7 @@ Muhammad Akhyar Bin Al-Khairi 1715231 <br>
 <h4>ER Diagram</h4>
 
 ![web develop drawio](https://user-images.githubusercontent.com/121500795/209822343-69b65a44-c757-49cb-baa4-3a6d64ceb41e.png)
+
+<h4>Sequence Diagram</h4>
+
+![seq diagram drawio](https://user-images.githubusercontent.com/121500795/209828245-e42d7d5c-d8db-40d1-8d46-de89eb451fa1.png)
